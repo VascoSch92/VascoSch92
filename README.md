@@ -15,7 +15,7 @@
 
 </div>
 
-## Open Source
+## Open Source Contributions
 
 <details>
   <summary>Symmetria</summary>
