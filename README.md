@@ -50,9 +50,9 @@
   - **Repository:**  [astral-sh/ruff](https://github.com/astral-sh/ruff)
     
   - **(Some) Contributions:**
-      - https://github.com/astral-sh/ruff/pull/15980
-      - https://github.com/astral-sh/ruff/pull/15930
-      - https://github.com/astral-sh/ruff/pull/15988
+      - https://github.com/astral-sh/ruff/pull/15980 - Exempt sys.path += ... calls `(E402)`
+      - https://github.com/astral-sh/ruff/pull/16080 - Correct ordering of arguments in fix for `if-stmt-min-max (PLR1730)`
+      - https://github.com/astral-sh/ruff/pull/15988 - Consider any number of leading underscore for `N801`
     
 </details>
 
@@ -64,6 +64,6 @@
   - **Repository:**  [feature-engine/feature_engine](https://github.com/feature-engine/feature_engine)
     
   - **(Some) Contributions:**
-      - https://github.com/feature-engine/feature_engine/pull/806
+      - https://github.com/feature-engine/feature_engine/pull/806 - Implementation of a mean normalization scaling transformer
         
 </details>
