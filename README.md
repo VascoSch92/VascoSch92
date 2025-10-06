@@ -34,7 +34,7 @@
 <details>
   <summary>Symmetria</summary>
   
-  - **Description:**  Symmetria provides an intuitive, thorough, and comprehensive framework for interacting with the symmetric group and its elements.  
+  - **Description:**  Symmetria provides an intuitive and comprehensive framework for interacting with the symmetric group and its elements, built on a Rust backend for optimal performance.
   
   - **Repository:**  [VascoSch92/symmetria](https://github.com/VascoSch92/symmetria)
     
