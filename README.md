@@ -31,13 +31,10 @@
 
   - **Repository:**  [OpenHands](https://github.com/OpenHands)
 
-  - **Contributions:**  Core contributor, mostly on the agent SDK and agent-canvas
-      - [OpenHands/software-agent-sdk](https://github.com/OpenHands/software-agent-sdk)
-      - [OpenHands/agent-canvas](https://github.com/OpenHands/agent-canvas)
-      - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
-      - [OpenHands/typescript-client](https://github.com/OpenHands/typescript-client)
-      - [OpenHands/OpenHands-CLI](https://github.com/OpenHands/OpenHands-CLI)
-      - [OpenHands/docs](https://github.com/OpenHands/docs)
+  - **Contributions:**  Core contributor
+      - [OpenHands/software-agent-sdk](https://github.com/OpenHands/software-agent-sdk) - 180+ merged pull requests on the SDK powering the agents
+      - [OpenHands/agent-canvas](https://github.com/OpenHands/agent-canvas) - 40+ merged pull requests
+      - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - the main platform
 
 </details>
 
