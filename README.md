@@ -8,9 +8,6 @@
 ╚═╝  ╚═╝╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
 </pre>
 
-I'm Vasco — I work on agent infrastructure at [OpenHands](https://github.com/OpenHands),
-and I build small, well-tested Python & Rust libraries for mathematics.
-
 [Substack](https://pythagorai.substack.com/) · [LinkedIn](https://www.linkedin.com/in/vascoschiavo92)
 
 </div>
