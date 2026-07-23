@@ -7,9 +7,6 @@
 ██║  ██║██║       ██║   ██║  ██║███████╗██║  ██║███████╗
 ╚═╝  ╚═╝╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
 </pre>
-
-[Substack](https://pythagorai.substack.com/) · [LinkedIn](https://www.linkedin.com/in/vascoschiavo92)
-
 </div>
 
 ---
