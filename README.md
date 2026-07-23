@@ -63,7 +63,7 @@
   - **Repository:**  [feature-engine/feature_engine](https://github.com/feature-engine/feature_engine)
 
   - **Contributions:**
-      - [#806](https://github.com/feature-engine/feature_engine/pull/806) - Implementation of a mean normalization scaling transformer
+      - https://github.com/feature-engine/feature_engine/pull/806 - Implementation of a mean normalization scaling transformer
 
 </details>
 
