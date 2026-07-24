@@ -31,10 +31,13 @@
 
   - **Repository:**  [OpenHands](https://github.com/OpenHands)
 
-  - **Contributions:**  Core contributor
-      - [OpenHands/software-agent-sdk](https://github.com/OpenHands/software-agent-sdk) - 180+ merged pull requests on the SDK powering the agents
-      - [OpenHands/agent-canvas](https://github.com/OpenHands/agent-canvas) - 40+ merged pull requests
-      - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - the main platform
+  - **Contributions:**  Core contributor - 180+ merged pull requests on the [agent SDK](https://github.com/OpenHands/software-agent-sdk), 40+ on [agent-canvas](https://github.com/OpenHands/agent-canvas)
+      - **Parallel tool calls** - the execution engine, a resource-lock manager to make concurrent tools safe, per-tool resource declarations, and the concurrency limit surfaced end-to-end in agent settings
+      - **Subagents** - file-based agent definitions in markdown + YAML frontmatter, built-in specialized agents, and the task tool set that replaced the delegate tool
+      - **LLM profiles** - a persisted profile store, the management API, cipher-encrypted secrets, and per-conversation model switching from the chat UI
+      - **Conversation history tree** - parent/child lineage, fork-from-event and navigation, exposed over HTTP and surfaced as branching a conversation from any message
+      - **Prompt registry** - typed prompt sections replacing the Jinja templates, guarded by a golden-snapshot test of the rendered system prompt
+      - **Token-level streaming** - over the agent-server WebSocket and rendered live in the chat
 
 </details>
 
